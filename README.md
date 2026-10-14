@@ -35,6 +35,25 @@ Aynı araçla güncelleyebilir ya da **Kaldır**'a basarak kaldırabilirsiniz. K
 
 Kurulum aracı komut satırından da kullanılabilir: `BlasphemousTR-Kurulum.exe /sessiz /kur` veya `/sessiz /kaldir` (isteğe bağlı olarak sonuna oyun klasörü).
 
+## Antivirüs uyarısı
+
+Bazı antivirüsler, özellikle az bilinen ve tahmine dayalı çalışanlar, kurulum aracını "şüpheli" ya da "trojan" olarak işaretleyebilir. Bu bir yanlış alarmdır. Kurulum aracının yaptığı iş, antivirüslerin gözünde zararlı yazılımlara benzer:
+
+- BepInEx'i ve eklentileri içinde taşır ve oyun klasörüne yazar. İçinde başka program dosyaları taşıyan programlar antivirüslere şüpheli görünür.
+- BepInEx, oyun klasörüne koyduğu `winhttp.dll` ile oyunla birlikte açılır ve eklentilerin oyunun kodunu çalışırken değiştirmesini sağlar. Mod yükleyiciler böyle çalışır.
+- Dijital olarak imzalı değildir.
+
+Kurulum aracının içindeki BepInEx dosyaları resmî 5.4.23.4 sürümüyle bayt bayt aynıdır. Eklentilerin ve kurulum aracının kaynak kodu bu depodadır.
+
+İndirdiğiniz dosyanın buradaki sürüm olduğunu karmasıyla doğrulayabilirsiniz: dosyanın bulunduğu klasörde PowerShell'e `Get-FileHash .\BlasphemousTR-Kurulum.exe` yazın. Çıkan değer aşağıdakiyle aynı olmalıdır (büyük/küçük harf fark etmez).
+
+| dosya (v1.0.0) | SHA-256 |
+|---|---|
+| `BlasphemousTR-Kurulum.exe` | `22d6e1a805c39dbc028b05fd528296498d46aa6ebf273597f7714ded555dca0b` |
+| `BlasphemousTR.zip` | `b27dde80ee2caeb4e60ad949edef61c90062a5f820636de285b8a977bf20aec8` |
+
+Güncel VirusTotal sonucu: [BlasphemousTR-Kurulum.exe](https://www.virustotal.com/gui/file/22d6e1a805c39dbc028b05fd528296498d46aa6ebf273597f7714ded555dca0b)
+
 ## İngilizce kalanlar
 
 - Jenerik ve ana menüdeki telif satırı (özgün hâliyle bırakıldı).
@@ -72,7 +91,8 @@ powershell -ExecutionPolicy Bypass -File derle.ps1 "C:\Program Files (x86)\Steam
 
 1. Sürüm numarasını güncelleyin: `src/BlasphemousTR.cs` (`VERSION`), `kurulum/Kurulum.cs` (`Surum`, `AssemblyVersion`, `AssemblyFileVersion`) ve `kurulum/BENIOKU.txt` (ilk satır).
 2. `derle.ps1` ile derleyin.
-3. Değişiklikleri gönderip sürümü [GitHub CLI](https://cli.github.com/) ile yayınlayın:
+3. **Antivirüs uyarısı** bölümünde sürüm numarasını, karmaları (`Get-FileHash bin\BlasphemousTR-Kurulum.exe, bin\BlasphemousTR.zip`) ve VirusTotal bağlantısını yeni dosyalara göre güncelleyin. Bağlantının sonuç göstermesi için exe'yi VirusTotal'a bir kez yükleyin.
+4. Değişiklikleri gönderip sürümü [GitHub CLI](https://cli.github.com/) ile yayınlayın:
 
    ```bat
    gh release create vX.Y.Z bin\BlasphemousTR-Kurulum.exe bin\BlasphemousTR.zip --title "Blasphemous TR vX.Y.Z" --notes "Değişiklikler..."

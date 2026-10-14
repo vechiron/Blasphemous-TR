@@ -2,6 +2,11 @@
 
 Blasphemous'un bütün metni Türkçe: menüler, diyaloglar, eşya ve dua açıklamaları, öğreticiler, harita. Çeviri İngilizceden yapıldı; anlamı belirsiz yerlerde oyunun asıl dili olan İspanyolcaya bakıldı. **ğ, ş, ı, İ** harfleri oyunun kendi piksel yazı stilinde görünür (Türkçe harf düzeltmesi dahil).
 
+<p align="center">
+  <img src="gorseller/envanter.png" width="49%" alt="Envanter: Diken eşyasının Türkçe açıklaması">
+  <img src="gorseller/harita.png" width="49%" alt="Harita: SESSİZ KEDER KARDEŞLİĞİ">
+</p>
+
 Hazırlayan: **Vechiron**
 
 ### ⬇ [Kurulum dosyasını indir (BlasphemousTR-Kurulum.exe)](https://github.com/vechiron/Blasphemous-TR/releases/latest/download/BlasphemousTR-Kurulum.exe)

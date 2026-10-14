@@ -1,5 +1,5 @@
 // Blasphemous TR Kurulum - Blasphemous Türkçe çevirisinin kurulum aracı. Hazırlayan: Vechiron
-// Kalıbı TurkishFontFix-Kurulum'dan (github.com/vechiron/Blasphemous-TurkishFontFix).
+// Kalıbı font eklentisinin eski kurulum aracından (TurkishFontFix-Kurulum).
 // Kullanım: BlasphemousTR-Kurulum.exe [oyun klasörü]
 //           BlasphemousTR-Kurulum.exe /sessiz /kur|/kaldir [oyun klasörü]
 //           (sessiz çıkış kodları: 0 tamam, 1 oyun yok, 3 oyun açık, 4 hata)

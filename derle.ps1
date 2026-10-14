@@ -1,8 +1,9 @@
 # derle.ps1 - Blasphemous TR derleme betigi. Hazirlayan: Vechiron
 # Kullanim: powershell -ExecutionPolicy Bypass -File derle.ps1 ["C:\...\Blasphemous"]
 #   (yol verilmezse Steam'in varsayilan kurulum yolu kullanilir)
-# Cikti (bin\): BlasphemousTR.dll, BlasphemousTR-Kurulum.exe, BlasphemousTR.zip
-# Indirilenler (bin\indir\, karmalari sabit): resmi BepInEx 5.4.23.4, TurkishFontFix v1.0.0
+# Cikti (bin\): BlasphemousTR.dll, TurkishFontFix.dll, BlasphemousTR-Kurulum.exe, BlasphemousTR.zip
+# Indirilen (bin\indir\, karmasi sabit): resmi BepInEx 5.4.23.4
+# Iki eklenti: src\BlasphemousTR.cs (ceviri yukleyici), src\TurkishFontFix\ (Turkce harf duzeltmesi)
 # Derleme duzeni: csc v4, -nostdlib, oyunun Managed kutuphaneleri (CLR 2.0 / Unity 2017.4), C# 5.
 # Arguman yanit dosyasiyla (.rsp) verilir: bosluklu yollarda tirnak sorunu olmasin.
 # Cikis: 0 derlendi - 1 hata
@@ -17,8 +18,6 @@ try {
     $csc = Join-Path $env:WINDIR 'Microsoft.NET\Framework64\v4.0.30319\csc.exe'
     $bepUrl = 'https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip'
     $bepSha = 'F881201B79DA03E513BF97CDF39607FFA7F9E0D31A519B1AEECA8EB60F8309E7'
-    $fontUrl = 'https://github.com/vechiron/Blasphemous-TurkishFontFix/releases/download/v1.0.0/TurkishFontFix.zip'
-    $fontSha = '93CAB96F121191994AAAFDCCA0B532EC1577190AC9BEE7CC62D0AB483AA50FFB'   # zip icindeki DLL
     if (-not (Test-Path (Join-Path $m 'Assembly-CSharp-firstpass.dll'))) { Write-Output "Oyun klasoru bulunamadi: $Oyun"; exit 1 }
 
     if (Test-Path $yap) { Remove-Item -Recurse -Force $yap }
@@ -55,12 +54,16 @@ try {
     & $csc -noconfig "@$rsp"
     if ($LASTEXITCODE -ne 0) { Write-Output "Eklenti derlenemedi (csc cikis $LASTEXITCODE)"; exit 1 }
 
-    # 3) font eklentisi: TurkishFontFix v1.0.0 surum varligi
-    $fontZip = Indir $fontUrl 'TurkishFontFix-1.0.0.zip'
-    $font = Join-Path $yap 'font'
-    [IO.Compression.ZipFile]::ExtractToDirectory($fontZip, $font)
-    $fontDll = Join-Path $font 'BepInEx\plugins\TurkishFontFix\TurkishFontFix.dll'
-    if (-not (Test-Path $fontDll) -or (Get-FileHash $fontDll -Algorithm SHA256).Hash -ne $fontSha) { Write-Output "TurkishFontFix.dll bulunamadi ya da karmasi tutmuyor: $fontZip"; exit 1 }
+    # 3) Turkce harf duzeltmesi (TurkishFontFix): g s i I harflerini fontlarin kendi gliflerinden uretir
+    $fontDll = Join-Path $bin 'TurkishFontFix.dll'
+    $r = @('mscorlib', 'System', 'System.Core', 'UnityEngine', 'UnityEngine.CoreModule', 'UnityEngine.TextRenderingModule',
+        'UnityEngine.UI', 'UnityEngine.UIModule', 'UnityEngine.ImageConversionModule', 'TextMeshPro-2017.3-Runtime') | ForEach-Object { '-r:"' + (Join-Path $m ($_ + '.dll')) + '"' }
+    $r += '-r:"' + (Join-Path $core 'BepInEx.dll') + '"'
+    $fk = Join-Path $kok 'src\TurkishFontFix'
+    $rsp = Rsp (@('-nologo', '-target:library', '-optimize+', '-nostdlib+', '-codepage:65001', ('-out:"' + $fontDll + '"')) + $r +
+        @(('"' + (Join-Path $fk 'TurkishFontFix.cs') + '"'), ('"' + (Join-Path $fk 'GlyphComposer.cs') + '"'))) 'font.rsp'
+    & $csc -noconfig "@$rsp"
+    if ($LASTEXITCODE -ne 0) { Write-Output "TurkishFontFix derlenemedi (csc cikis $LASTEXITCODE)"; exit 1 }
 
     # 4) gomulecek dosyalar; ad = onek + oyun klasorune gore yol:
     #    "B/" BepInEx (kurulum araci yalniz BepInEx yoksa yazar) - "E/" eklentiler (her kurulumda yazilir)
@@ -96,7 +99,7 @@ try {
     [IO.Compression.ZipFileExtensions]::CreateEntryFromFile($za, $okuYol, 'BlasphemousTR-BENIOKU.txt') | Out-Null
     $za.Dispose(); $zs.Dispose()
 
-    foreach ($g in @($dll, $exe, $zip)) { Write-Output "Derlendi: $g" }
+    foreach ($g in @($dll, $fontDll, $exe, $zip)) { Write-Output "Derlendi: $g" }
     exit 0
 } catch {
     Write-Output "Hata: $_"

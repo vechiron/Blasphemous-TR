@@ -1,6 +1,6 @@
 # Blasphemous TR: Blasphemous Türkçe çevirisi
 
-Blasphemous'un bütün metni Türkçe: menüler, diyaloglar, eşya ve dua açıklamaları, öğreticiler, harita. Çeviri İngilizceden yapıldı; anlamı belirsiz yerlerde oyunun asıl dili olan İspanyolcaya bakıldı. **ğ, ş, ı, İ** harfleri oyunun kendi piksel yazı stilinde görünür ([TurkishFontFix](https://github.com/vechiron/Blasphemous-TurkishFontFix) pakete dahildir).
+Blasphemous'un bütün metni Türkçe: menüler, diyaloglar, eşya ve dua açıklamaları, öğreticiler, harita. Çeviri İngilizceden yapıldı; anlamı belirsiz yerlerde oyunun asıl dili olan İspanyolcaya bakıldı. **ğ, ş, ı, İ** harfleri oyunun kendi piksel yazı stilinde görünür (Türkçe harf düzeltmesi dahil).
 
 Hazırlayan: **Vechiron**
 
@@ -39,6 +39,7 @@ Kurulum aracı komut satırından da kullanılabilir: `BlasphemousTR-Kurulum.exe
 
 - BepInEx eklentisi (`BlasphemousTR.dll`) oyun açılırken `Turkce.txt`'deki çeviriyi oyunun dil sistemine (I2 Localization) İngilizce dilinin yerine yükler.
 - Oyunun büyük harfe çevirdiği başlıklarda Türkçe kuralı uygular: "ERİŞİLEBİLİRLİK" ("ERIŞILEBILIRLIK" değil).
+- Türkçe harf düzeltmesi (`TurkishFontFix.dll`): oyunun fontlarında olmayan ğ, ş, ı, İ harflerini her fontun kendi harflerinden üretir (g ile kısa işareti, s ile ç'nin çengeli, i'nin noktası) ve fonta ekler.
 - Oyun dosyalarına dokunmaz; her şey oyun çalışırken bellekte yapılır.
 - Çalıştığını görmek için: oyunu bir kez açıp kapattıktan sonra `BepInEx\LogOutput.log` dosyasında `[Blasphemous TR]` satırları görünür.
 
@@ -48,19 +49,19 @@ Kurulum aracı komut satırından da kullanılabilir: `BlasphemousTR-Kurulum.exe
 |---|---|
 | `ceviri/` | çevirinin kaynağı, kategori başına bir dosya (`Kategori/ANAHTAR = metin`); `terimce.md`: üslup kararları ve terim tablosu |
 | `Turkce.txt` | eklentinin okuduğu birleşik çeviri dosyası (`ceviri/`'den biçim denetimiyle üretilir) |
-| `src/` | eklentinin kodu |
+| `src/` | eklentilerin kodu: `BlasphemousTR.cs` (çeviri yükleyici), `TurkishFontFix/` (Türkçe harf düzeltmesi) |
 | `kurulum/` | kurulum aracının kodu ve oyuncu için BENİOKU |
 | `derle.ps1` | derleme betiği |
 
 ## Derleme
 
-Windows ile gelen .NET Framework 4 derleyicisi (`csc.exe`) yeterlidir. Oyunun kurulu olması gerekir, çünkü eklenti oyunun kendi kütüphanelerine karşı derlenir. Betik BepInEx 5.4.23.4'ü ve TurkishFontFix v1.0.0'ı resmî sürüm sayfalarından indirir ve karmalarını denetler.
+Windows ile gelen .NET Framework 4 derleyicisi (`csc.exe`) yeterlidir. Oyunun kurulu olması gerekir, çünkü eklenti oyunun kendi kütüphanelerine karşı derlenir. Betik BepInEx 5.4.23.4'ü resmî sürüm sayfasından indirir ve karmasını denetler.
 
 ```bat
 powershell -ExecutionPolicy Bypass -File derle.ps1 "C:\Program Files (x86)\Steam\steamapps\common\Blasphemous"
 ```
 
-Çıktı: `bin\BlasphemousTR-Kurulum.exe` (her şeyi içine gömülü taşıyan kurulum aracı), `bin\BlasphemousTR.zip` (elle kurulum), `bin\BlasphemousTR.dll` (eklenti)
+Çıktı: `bin\BlasphemousTR-Kurulum.exe` (her şeyi içine gömülü taşıyan kurulum aracı), `bin\BlasphemousTR.zip` (elle kurulum), `bin\BlasphemousTR.dll` ve `bin\TurkishFontFix.dll` (eklentiler)
 
 ## Yeni sürüm yayınlama (geliştiriciler için)
 

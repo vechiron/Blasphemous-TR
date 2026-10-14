@@ -1,0 +1,13 @@
+# UI_MainMenu - ana menü
+UI_MainMenu/LABEL_PLAY = Yeni Oyun
+UI_MainMenu/LABEL_MAIN_EXTRAS = Ekstralar
+UI_MainMenu/LABEL_MAIN_SKINSELECTOR = Kostüm Seçimi
+UI_MainMenu/LABEL_MAIN_CREDITS = Emeği Geçenler
+UI_MainMenu/LABEL_MAIN_EXIT = Çıkış
+UI_MainMenu/LABEL_MAIN_MENU = Menü
+UI_MainMenu/LABEL_MAIN_CHANGE_LANGUAGE = Dili değiştir\n
+UI_MainMenu/POPUP_GAMEMODE_UNLOCKED = Yeni bir oyun modu açıldı
+# «Continue» yerine oyunun kendi sözü: hac yolculuğuna devam
+UI_MainMenu/LABEL_MAIN_CONTINUE = Hac Yolu
+UI_MainMenu/LABEL_MAIN_RELOAD = Son Kayda Dön
+UI_MainMenu/LABEL_MAIN_CORRUPT_FILE = Oyun son oturumda düzgün kaydedilmedi. \nÖnceki sağlam kayıt geri yüklendi.

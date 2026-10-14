@@ -1,0 +1,12 @@
+ST25_PONTIFF/DLG_2501_0 = Düşlerimde ayak seslerinin yaklaştığını duydum. Düşlerimde seninle konuşmaya, kendimi tanıtmaya çalıştım.
+ST25_PONTIFF/DLG_2501_1 = Mucize'nin ve Mucize sancağının muhafızıyım; büyük bir acıyla Baba'nın nişanını taşırım.
+ST25_PONTIFF/DLG_2501_2 = Kanlı derili ellerim ben; Ana Kilisemizin içinden baktığı gözlerim ben.
+ST25_PONTIFF/DLG_2501_3 = Ama soğuk, adsız çehrenden başka hiçbir şey bilmem senden.
+ST25_PONTIFF/DLG_2501_4 = Nasırlı, yaralı ellerinden başka. Ölümlerinin yasından başka.
+ST25_PONTIFF/DLG_2501_5 = Hayır. Senden hiçbir şey bilmiyorum; yalnız Mucize bilir.
+ST25_PONTIFF/DLG_2502_0 = Beni uykuda gördüğün aynayı paramparça ettin.
+ST25_PONTIFF/DLG_2502_1 = Şimdi beni Hakiki Mucize'nin oğlu olarak uyanmış görüyorsun.
+ST25_PONTIFF/DLG_2503_0 = Şimdi suçlulukla dolu kılıcın, altından olan benimkiyle çarpışsın.
+ST25_PONTIFF/DLG_2503_1 = Bırak acısınlar ve alay hâlinde yürüsünler.
+ST25_PONTIFF/DLG_2503_2 = Adında sana sonsuza dek lanet ederim.
+ST25_PONTIFF/DLG_2503_3 = Ölümünde seni sonsuza dek kutsarım.

@@ -1,0 +1,57 @@
+# UI_Inventory - envanter ekranı, eşya bulma/verme bildirimleri, kapı mesajları
+UI_Inventory/CAPTION_DECHIPER = ÇÖZ
+UI_Inventory/GRID_LABEL_ABILITIES = YETENEKLER
+UI_Inventory/GRID_LABEL_BEADS = TESPİH TANELERİ
+UI_Inventory/GRID_LABEL_COLLECTIBLE = KOLEKSİYON
+UI_Inventory/GRID_LABEL_PRAYERS = DUALAR
+UI_Inventory/GRID_LABEL_QUESTITEM = GÖREV EŞYALARI
+UI_Inventory/GRID_LABEL_RELICS = EMANETLER
+UI_Inventory/GRID_LABEL_STATUS = Durum
+UI_Inventory/GRID_LABEL_SWORD = MEA CULPA KALPLERİ
+UI_Inventory/LABEL_BEADS_COLLECTED = Bulunan Tespih Taneleri:
+UI_Inventory/LABEL_BUTTON_CLOSE = Kapat
+UI_Inventory/LABEL_BUTTON_DECIPHER = Çöz
+UI_Inventory/LABEL_BUTTON_EQUIP = Kuşan
+UI_Inventory/LABEL_BUTTON_EXIT = Çık
+UI_Inventory/LABEL_BUTTON_LORE = Rivayet
+UI_Inventory/LABEL_BUTTON_READPRAYER = Duayı Oku
+UI_Inventory/LABEL_BUTTON_UNEQUIP = Çıkar
+UI_Inventory/LABEL_BUTTON_UNLOCK = Kilidi Aç
+UI_Inventory/LABEL_COLLECTIBLES_COLLECTED = Bulunan Koleksiyon Parçaları:
+UI_Inventory/LABEL_COMPLETION = TAMAMLANMA:
+UI_Inventory/LABEL_ITEM_FOUND = Elde ettin:
+UI_Inventory/LABEL_ITEMS_COLLECTED = Bulunan Görev Eşyaları:
+UI_Inventory/LABEL_MEACULPA = Mea Culpa
+UI_Inventory/LABEL_NO_FERVOYR = Şevk yetersiz
+UI_Inventory/LABEL_PRAYER_LOCKED = (Kilitli)
+UI_Inventory/LABEL_PRAYERS = DUALAR
+UI_Inventory/LABEL_PRAYERS_BUTTON_ACTIVATE = Duayı kuşan
+UI_Inventory/LABEL_PRAYERS_BUTTON_DEACTIVATE = Duayı bırak
+UI_Inventory/LABEL_PRAYERS_BUTTON_DECEIPHER = Duayı çöz
+UI_Inventory/LABEL_PRAYERS_COLLECTED = Bulunan Dualar:
+UI_Inventory/LABEL_PRAYERSEMPTY_NOPRAYERS = Henüz hiç dua edinmedin
+UI_Inventory/LABEL_PRAYERSEMPTY_SLOT = Boş dua yuvası
+UI_Inventory/LABEL_PURGE_TOTAL = Toplam
+UI_Inventory/LABEL_RELICS_COLLECTED = Bulunan Emanetler:
+UI_Inventory/LABEL_RELIQUARY = Emanet Sandığı
+UI_Inventory/LABEL_ROSARY = Tespih
+UI_Inventory/LABEL_UPGRADES_COLLECTED = Bulunan Geliştirmeler:
+UI_Inventory/MEACULPA_LABEL = Mea Culpa: <color=#8b8560>Seviye {[meaculpa_level]}</color>
+UI_Inventory/SKILL_HELP_TEXT = Yeni yetenekler açmak için Mea Culpa sunağına git
+UI_Inventory/TEXT_DOOR_CLOSED = Kapı bir düzenekle kapatılmış
+UI_Inventory/TEXT_DOOR_NEED_OBJECT = Bu kapıyı açmak için <color=#ffffffff>{[object_caption]}</color> gerekli
+UI_Inventory/TEXT_DOOR_USE_OBJECT = <color=#ffffffff>{[object_caption]}</color> kullanıldı
+UI_Inventory/TEXT_ITEM_FOUND = Elde ettin:
+UI_Inventory/TEXT_ITEM_FOUND_BEAD = {[beads]} tespih tanesi
+UI_Inventory/TEXT_ITEM_FOUND_BEADS = {[beads]} tespih tanesi
+UI_Inventory/TEXT_ITEM_GIVE = Verdin:
+UI_Inventory/TEXT_POPUP_SKINUNLOCKED_BODY = KOSTÜM AÇILDI
+UI_Inventory/TEXT_POPUP_SKINUNLOCKED_TITLE = Ana Menüde yeni bir kostüm açıldı
+UI_Inventory/TEXT_QI75_FILLS = Ters Dizeler Kadehi kısmen doldu.
+UI_Inventory/TEXT_QI76_FILLS = Ters Dizeler Kadehi tamamen doldu.
+UI_Inventory/TEXT_QI76_OR_QI77_UNFILLS = Ters Dizeler Kadehi boşaldı.
+# Yarım cümleler: sonuna oyun ad ya da bedel ekliyor (birleştirme kodu ölçülmedi; oyunda gözle)
+UI_Inventory/TEXT_QUESTION_BUY_ITEM = Bu nesneyi şu bedele almak ister misin:
+UI_Inventory/TEXT_QUESTION_GIVE_ITEM = Şunu vermek ister misin:
+UI_Inventory/TEXT_QUESTION_GIVE_PURGE = Şu bedeli ödemek ister misin:
+UI_Inventory/TEXT_SWORDHEART_HELP = Mea Culpa'nın kalbini yeniden dövmek için kutsal toprakta diz çök

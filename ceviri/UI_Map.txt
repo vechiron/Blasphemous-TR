@@ -1,0 +1,64 @@
+# UI_Map - ayarlar menüsü, duraklatma menüsü
+# Normal harfle yazılır: başlık kutularında oyun kendisi büyütür (yükleyici Türkçe
+# kuralla: i -> İ), düğmelerde aynı terim normal harfle görünür (metin-yolu.md §4).
+UI_Map/LABEL_MENU_OPTIONS = Seçenekler
+UI_Map/LABEL_MENU_GAME = Oyun
+UI_Map/LABEL_MENU_VIDEO = Görüntü
+UI_Map/LABEL_MENU_SOUND = Ses
+UI_Map/LABEL_MENU_LANGUAGE = Dil
+UI_Map/LABEL_MENU_ACCESSIBILITY = Erişilebilirlik
+UI_Map/LABEL_MENU_GAME_CONTROLS = Kontroller
+# Dil adları: ayarlardaki metin dili satırı LANGUAGENAME'den gelir (Türkçe English yuvasında)
+UI_Map/LABEL_MENU_LANGUAGENAME = Türkçe
+UI_Map/LABEL_MENU_EN_LANGUAGENAME = İngilizce
+UI_Map/LABEL_MENU_ES_LANGUAGENAME = İspanyolca
+UI_Map/LABEL_MENU_GAME_TEXTLANGUAGE = Metin Dili
+UI_Map/LABEL_MENU_GAME_AUDIOLANGUAGE = Ses Dili
+UI_Map/LABEL_MENU_GAME_ENABLEHOWTOPLAY = Öğreticiyi Göster
+UI_Map/LABEL_MENU_GAME_CONTROLS_SHOW = Ayarla
+UI_Map/LABEL_MENU_CONTROLS = Kontroller
+UI_Map/LABEL_MENU_ACCESSIBILITY_RUMBLEENABLED = Kumanda titreşimi
+UI_Map/LABEL_MENU_ACCESSIBILITY_SHAKEENABLED = Ekran sarsıntısı
+UI_Map/LABEL_MENU_ACCESSIBILITY_ACHIEVEMENTSPOPUPNABLED = Başarım Bildirimi
+UI_Map/LABEL_MENU_AUDIO_MASTERVOLUME = Ana Ses
+UI_Map/LABEL_MENU_AUDIO_MUSICVOLUME = Müzik Sesi
+UI_Map/LABEL_MENU_AUDIO_EFFECTSVOLUME = Efekt Sesi
+UI_Map/LABEL_MENU_AUDIO_VOICEOVERVOLUME = Konuşma Sesi
+UI_Map/LABEL_MENU_VIDEO_BRIGTNESS = Parlaklık
+UI_Map/LABEL_MENU_VIDEO_FILTERING = Filtreleme
+UI_Map/LABEL_MENU_VIDEO_FULLSCREEN = Tam Ekran
+UI_Map/LABEL_MENU_VIDEO_PIXELPERFECT = Kusursuz Piksel
+UI_Map/LABEL_MENU_VIDEO_RESOLUTION = Çözünürlük
+UI_Map/LABEL_MENU_VIDEO_RESOLUTIONMODE = Ölçekleme Modu
+UI_Map/LABEL_MENU_VIDEO_SCALE = Ölçek
+UI_Map/LABEL_MENU_VIDEO_WINDOWED = Pencere
+UI_Map/LABEL_MENU_VIDEO_WINDOWMODE = Pencere Modu
+UI_Map/LABEL_MENU_RESUME = Oyuna Dön
+UI_Map/LABEL_MENU_EXIT = Ana Menüye Dön
+UI_Map/LABEL_MENU_TIPS = Oynanış İpuçları
+UI_Map/LABEL_MENU_TRAVEL = Yolculuk
+UI_Map/LABEL_BUTTON_ACCEPT = Onayla
+UI_Map/LABEL_BUTTON_APPLY = Uygula
+UI_Map/LABEL_BUTTON_BACK = Geri
+UI_Map/LABEL_BUTTON_GAMEOPTIONS = Oyun Seçenekleri
+UI_Map/LABEL_BUTTON_MOVE = Hareket
+UI_Map/LABEL_BUTTON_NEXT = Sonraki
+UI_Map/LABEL_BUTTON_PREVIOUS = Önceki
+# Haritadaki «Legend» = gösterge (lejant); envanterdeki «Legend» = rivayet (UI_Controls)
+UI_Map/LABEL_BUTTON_SHOWHIDE_LEYEND = Göstergeyi Aç/Kapat
+UI_Map/LABEL_LEYEND_CHAPEL = Yolculuk Şapeli
+UI_Map/LABEL_LEYEND_CLOSEDDOOR = Kapalı Kapı
+UI_Map/LABEL_LEYEND_CONFESSOR = Günah Çıkaran
+UI_Map/LABEL_LEYEND_FOUNTAIN = Çeşme
+UI_Map/LABEL_LEYEND_GUILT = Vebal
+UI_Map/LABEL_LEYEND_KNEELER = Dua Rahlesi
+UI_Map/LABEL_LEYEND_KNOTS = Tespih Düğümü
+UI_Map/LABEL_LEYEND_MEACULPA = Mea Culpa Sunağı
+UI_Map/LABEL_LEYEND_OPENEDOOR = Kapı
+UI_Map/LABEL_LEYEND_PENITENT = Tövbekâr
+UI_Map/LABEL_MENU_VIDEO_VSYNC = V-SYNC
+UI_Map/TEXT_NO_MAP = Harita yok
+UI_Map/LABEL_BUTTON_CENTER = Ortala
+UI_Map/LABEL_BUTTON_ZOOM = Yakınlaştır
+UI_Map/LABEL_BUTTON_PIN = İşaret koy
+UI_Map/LABEL_BUTTON_PIN_DELETE = İşareti sil

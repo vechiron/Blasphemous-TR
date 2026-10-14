@@ -1,0 +1,14 @@
+ST07_GEMINO/DLG_0701_0 = Kalbin kırık ve pişman olsun, suskun Tövbekâr. Gémino'dan geriye kalanın karşısındasın.
+ST07_GEMINO/DLG_0701_1 = Ah, benim için tasalanma. Soğuk merhametlidir; acımızı dindirir ve bizi ölüme götürmeden önce uyuşturur.
+ST07_GEMINO/DLG_0701_2 = Belki de ötekilerin sözünü ettiği Mucize, burada, bu demir mezarda bana da geldi; ıstırabımı gitgide uzatıyor...
+ST07_GEMINO/DLG_0701_3 = Adımlarını çetin bir diyara yöneltiyorsun; donmuşla yananın birlik içinde kucaklaştığı yere...
+ST07_GEMINO/DLG_0702_0 = Şimdi bırak da uyuşmuş kolum bu kurumuş zeytin ağacının bir dalı daha olsun.
+ST07_GEMINO/DLG_0702_1 = Acele et, çağrıyı hâlâ duyabiliyorum.
+ST07_GEMINO/DLG_0703_0 = Kaynar yağın buz kesmiş damarlarıma girdiğini hissediyorum.
+ST07_GEMINO/DLG_0703_1 = Çağrıya hâlâ cevap verebilirim...
+ST07_GEMINO/DLG_0704_0 = Kaynar yağın damarlarıma girip donmuş özsuyla karıştığını hissediyorum.
+ST07_GEMINO/DLG_0704_1 = Artık ötekileri duyamıyorum; yalnız kemiklerimin, derimin çatırtısını...
+ST07_GEMINO/DLG_0705_0 = Senden bir lütuf dileyeyim: bu buz tutmuş zeytin ağaçlarından bir zamanlar akan, doruğa ulaşan her dindarın yüzünü sonunda kavuran o yağlardan bana birkaç damla getir.
+ST07_GEMINO/DLG_0705_1 = Benim için çok geç olmadan, son dileğim olarak o acıyı hissetmeme izin ver.
+ST07_GEMINO/DLG_0706_0 = Al bunu.
+ST07_GEMINO/MSG_0701_0 = Kurnadan yağ almak için bir eşya gerekli.

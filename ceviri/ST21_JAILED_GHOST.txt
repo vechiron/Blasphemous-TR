@@ -1,0 +1,13 @@
+ST21_JAILED_GHOST/MSG_2101_0 = Yeni Tespih Sırrı hazır.
+ST21_JAILED_GHOST/DLG_2101_0 = Ne içinden bunca ışık ve karanlık geçen bedenimden kork, ne de bu altın parmaklıkların ardından çarpık görünen çehremden.
+ST21_JAILED_GHOST/DLG_2101_1 = Adım Soledad. Hazretlerinin emriyle, sonradan Mucize'nin süslediği bu kafese kapatıldım.
+ST21_JAILED_GHOST/DLG_2101_2 = Yüce İrade, bedenim mavi bir alev olarak kaldığı sürece sana yardım etme fırsatını bana bahşetti.
+ST21_JAILED_GHOST/DLG_2101_3 = Düğümleri bana getirene dek uyuyarak bekleyeceğim; duman ellerim onları bağlasın ve böylece tespihinin sırları çoğalsın.
+ST21_JAILED_GHOST/DLG_2102_0 = Dizecek yeni tespih düğümlerin olunca geri dön.
+ST21_JAILED_GHOST/DLG_2102_1 = Kalbin günahsız olsun.
+ST21_JAILED_GHOST/DLG_2103_0 = Şimdi bırak da parmaklarım yeni bir sır bağlasın.
+ST21_JAILED_GHOST/DLG_2104_0 = Tespihinin sırları artık tamamlandı.
+ST21_JAILED_GHOST/DLG_2104_1 = Görevim tamamlandı; ama bu yüzden günahlarım artık bağışlanmaz oldu.
+ST21_JAILED_GHOST/DLG_2104_2 = Nereye gideceğimi bilmiyorum, ama Düş'ün öbür yanı olmayacağından eminim.
+ST21_JAILED_GHOST/DLG_2105_0 = Mavi alevden bedenim sönüyor...
+ST21_JAILED_GHOST/DLG_2106_0 = Bana getirecek başka düğümün var mı, Tövbekâr?

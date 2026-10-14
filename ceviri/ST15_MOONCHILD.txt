@@ -1,0 +1,10 @@
+ST15_MOONCHILD/DLG_1501_0 = Adsız Tövbekâr, kardeşlerimi bul ve bana giden yolu onlara göster.
+ST15_MOONCHILD/DLG_1502_0 = Tövbekâr, bu kutsal kardeşlerimi bularak doğumumun görüsünü tamamladın; o görü uyuyan bir tuvale resmedilmişti.
+ST15_MOONCHILD/DLG_1502_1 = Adım Jocinero; aydan ve yiğit bir boğanın ıstırabından doğdum. Benden de, Yüce İradelerin lütfuyla, kutsal kardeşlerim doğdu.
+ST15_MOONCHILD/DLG_1503_0 = Ne mutlu geri dönen adımlarına. Mucize'nin hapsettiği bütün kardeşlerimi buldun.
+ST15_MOONCHILD/DLG_1503_1 = Artık özgürler; çiledeki bütün ruhları, seninkini de koruyabilecekler.
+ST15_MOONCHILD/DLG_1503_2 = Yaklaş ve bu ay parçasını al. Onunla, ne zaman gerekirse kutsal kardeşlerimden biri sana eşlik edecek.
+ST15_MOONCHILD/DLG_1504_0 = Kalbin pişman olsun, kutlu Tövbekâr.
+ST15_MOONCHILD/DLG_1506_0 = Kardeşlerimden bazılarını buldun.
+ST15_MOONCHILD/DLG_1506_1 = Kalanları da bulmanı dilerim; yine de şimdilik yüzlerimizin altınından yapılmış bu tuvali sakla. Kardeşler sana yol gösterecek.
+ST15_MOONCHILD/DLG_1507_0 = Lütfen gerisini bul.

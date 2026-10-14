@@ -1,0 +1,15 @@
+# UI_Slot - kayıt yuvaları, Gerçek Eziyet'e yükselme (NG+)
+UI_Slot/LABEL_BUTTON_CANCEL = İptal
+UI_Slot/LABEL_BUTTON_CONTINUE = Devam
+UI_Slot/LABEL_BUTTON_DELETE = Sil
+UI_Slot/LABEL_BUTTON_NEWGAME = Yeni Oyun
+UI_Slot/LABEL_CONFIRM = Seçili kayıt silinsin mi?
+UI_Slot/LABEL_EMPTY = Boş
+UI_Slot/LABEL_SLOT_HEADER = HAC YOLUNU SEÇ
+# Türkçede yüzde işareti sayıdan önce gelir
+UI_Slot/TEXT_SLOT_INFO = Oynama süresi: {[playtime]} - %{[completed]} tamamlandı
+UI_Slot/LABEL_BUTTON_UPGRADE = Yüksel
+UI_Slot/LABEL_GAME+_TITLE = GERÇEK EZİYETE YÜKSEL
+UI_Slot/LABEL_GAME+_DESCRIPTION = Kayıtlı oyununu Gerçek Eziyet moduna yükselt: yolculuğuna baştan başlarsın, ama teçhizatını ve yol boyunca açtığın geliştirmeleri korursun.\nBu modda Tövbekâr'ın hac yolu çok daha tehlikelidir ve Tövbe Sunağına erişim açılır. Cvstodia, yalnızca bu yolu yürüyenlere açılacak sırlar saklar.\n\nYükseliş kalıcıdır. Geri dönüş yoktur.
+UI_Slot/LABEL_GAME+_QUESTION = Gerçek Eziyete giden yola çıkmak istiyor musun?
+UI_Slot/LABEL_GAME++_DESCRIPTION = Teçhizatını ve Mea Culpa'nın seviyesini koruyarak yeni bir hac yolu başlatır.\nBir Tövbeyi tamamladıysan o başarıyı ve ödüllerini korursun. Bu yeni oyunda yeni bir tane seçebilirsin.\n\nGerçek Eziyet modunda kalırsın. Uyarıldın. Yükseliş kalıcıdır. Geri dönüş yoktur.

@@ -1,0 +1,24 @@
+# UI - genel arayüz
+UI/PRESS_START = Bir tuşa bas
+UI/NEW_LABEL = Yeni -
+UI/DEAD_CONTINUE = Devam etmek için bir tuşa bas
+UI/DEAD_MAIN_MESSAGE = ÖLDÜN
+UI/DISABLED_TEXT = Kapalı
+UI/ENABLED_TEXT = Açık
+# Font adları: I2'nin font başvurusu, ÇEVRİLMEZ (aynen; kapsam sayımı için dosyada)
+UI/FONT = MajesticExtended_Pixel_Scroll
+UI/FONT_ARIAL = ARIAL
+UI/FONT_CAUDEX = Caudex-Bold
+UI/FONT_MORIA = MoriaCitadel
+UI/FONT_SCROLL = MajesticExtended_Pixel_Scroll
+UI/FONT_TEXTMESH_PRO = MajesticExtended_FullLatin
+UI/GET_GUILTDROP_TEXT = Vebal Parçası geri alındı.
+# Diz çökme menüleri: tuş simgeleri arasındaki boşluk hizası İngilizceye göre korundu
+UI/KNEEL_MENU = [ACT:Inventory]  Envanter            [ACT:UI Back]   Ayağa kalk
+UI/LABEL_SKIP = Geç
+UI/ALTAR_MENU = [ACT:Inventory]  Günah Çıkaran    [ACT:Jump]  Ondalık      [ACT:UI Back]   Kalk
+UI/KNEEL_MENU_TELEPORT = [ACT:Jump]  Yolculuk         [ACT:UI Back]   Kalk
+UI/KNELL_MENU_ALL = [ACT:Inventory]  Envanter          [ACT:Jump]  Yolculuk        [ACT:UI Back]   Kalk
+UI/RENDER_MODE_OPTION = Görüntü efektleri
+UI/RENDER_MODE_PRESET = Hazır ayar
+UI/ISIDORA_MENU_FORBIDDEN = Ölülerin şarkısı durdurulamaz.

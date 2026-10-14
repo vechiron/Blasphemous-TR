@@ -1,0 +1,34 @@
+# UI_Controls - kontrol ayarları
+# ALREADY_USED oyunun sözlüğünde YOK (her dilde İngilizce kalıyordu); yükleyici terimi ekler
+UI_Controls/ALREADY_USED = Zaten kullanılıyor
+UI_Controls/ATTACK = Saldır
+UI_Controls/DASH = Kaçın
+UI_Controls/DIALOG_SKIP = Konuşmayı Geç
+UI_Controls/FLASK = Şişe
+UI_Controls/INTERACT = Etkileşim
+UI_Controls/INVENTORY = Envanter
+UI_Controls/INVENTORY_LEFT = Önceki Sekme
+UI_Controls/INVENTORY_LORE = Rivayeti Göster/Gizle
+UI_Controls/INVENTORY_RIGHT = Sonraki Sekme
+UI_Controls/INVENTORY_SCROLL_DOWN = Aşağı Kaydır
+UI_Controls/INVENTORY_SCROLL_UP = Yukarı Kaydır
+UI_Controls/JUMP = Zıpla
+UI_Controls/MOVE_HORIZONTAL_NEG = Sola Git
+UI_Controls/MOVE_HORIZONTAL_POS = Sağa Git
+UI_Controls/MOVE_VERTICAL_NEG = Aşağı Git
+UI_Controls/MOVE_VERTICAL_POS = Yukarı Git
+UI_Controls/PARRY = Savuştur
+UI_Controls/PAUSE = Harita
+UI_Controls/PRAYER = Dua
+UI_Controls/RANGE_ATTACK = Uzaktan Saldırı
+UI_Controls/MOVE_RVERTICAL_NEG = Kamera Aşağı
+UI_Controls/MOVE_RVERTICAL_POS = Kamera Yukarı
+UI_Controls/MOVE_RHORIZONTAL_NEG = Kamera Sola
+UI_Controls/MOVE_RHORIZONTAL_POS = Kamera Sağa
+UI_Controls/EDIT_BINDING = Değiştir
+UI_Controls/ACCEPT_BINDING = Onayla
+UI_Controls/RESTORE_DEFAULT_BINDINGS = Varsayılana Döndür
+UI_Controls/SAVE_AND_EXIT = Kaydet ve Çık
+UI_Controls/CANCEL = İptal
+UI_Controls/GRAB_CANCEL = Tutunmayı Bırak
+UI_Controls/LEFT_STICK_DISCLAIMER = Not: Sol çubuk her zaman karakterin hareketine atanmıştır.

@@ -1,0 +1,20 @@
+# Küçük arayüz kategorileri (birkaç terimlik): UI_Alms, TearsObject, UI_Achievements,
+# UI_UpgradeFlask, UI_NoEquipable
+UI_Alms/LABEL_TEXT_ALMS = Sadaka ver:
+TearsObject/Generic_CAPTION = Kefaret Gözyaşları
+UI_Achievements/LABEL_HEADER = Başarımlar
+UI_Achievements/LABEL_HIDDEN_HEADER = Gizli başarım
+UI_Achievements/LABEL_HIDDEN_DESC = Görmek için oynamaya devam et
+UI_Achievements/LABEL_MENU_ACHIEVEMENTS = Başarımlar
+UI_Achievements/LABEL_ACHIEVEMENT_UNLOCKED = Başarım açıldı
+UI_UpgradeFlask/UPGRADE_FLASK_ACCEPT = Şişeleri geliştir
+UI_UpgradeFlask/UPGRADE_FLASK_BILE_FLASK = Safra Şişesi
+UI_UpgradeFlask/UPGRADE_FLASK_ERROR_MESSAGE = Şişeler geliştirilemiyor (eksik nesneler var)
+UI_UpgradeFlask/UPGRADE_FLASK_GIVE = (Ver)
+UI_UpgradeFlask/UPGRADE_FLASK_HEADER = Gereken nesneler:
+UI_UpgradeFlask/UPGRADE_FLASK_RETURN = Geri
+UI_UpgradeFlask/UPGRADE_FLASK_SACRIFICE = (Kurban et)
+UI_NoEquipable/LABEL_DESCRIPTION = Mea Culpa'nın Tartışılmaz Kalbi kılıcın son biçimini açığa çıkaracak; bu, kılıca başka hiçbir kalp kuşanılamayacağı anlamına gelir. Kuşanmak istediğine emin misin?
+UI_NoEquipable/RESPONSE_YES = Evet, kuşan
+UI_NoEquipable/RESPONSE_NO = Hayır
+UI_NoEquipable/LABEL_CANTUNEQUIP = Mea Culpa artık tamamlandı. Kılıç Kalbi bundan böyle değiştirilemez.

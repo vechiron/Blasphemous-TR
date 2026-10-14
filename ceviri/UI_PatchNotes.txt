@@ -1,0 +1,36 @@
+# UI_PatchNotes - Ekstralar > Yama Notları. DLC başlıkları ürün adı: çevrilmez (terimce)
+# Düşman adları yalnız burada geçiyor: özel ad kalır (Guardainfante, Phalaris, Carthos), anlamlı olan çevrilir
+UI_PatchNotes/PATCH_2_0_NOTE_1 = Gerçek Eziyet modu:\n\n- Oyunu en az bir kez bitirdikten sonra Gerçek Eziyete yüksel.\n- En sevdiğin eşyaları ve duaları yanında tutacaksın; oyunun bu daha zorlu hâlinde ilerlemek için onlarda ustalaşman gerekecek.
+UI_PatchNotes/PATCH_2_0_NOTE_10 = Görsel, Oyuncu:\n\n- Oyuncununki dahil bazı çizimlerde, belirli bölgelere daha iyi uymaları için renk ayarı yapıldı.\n- Tövbekâr'a yeni animasyonlar eklendi.
+UI_PatchNotes/PATCH_2_0_NOTE_11 = Görsel, Ara sahneler:\n\n- Oyuna yeni animasyonlu ara sahneler eklendi.\n- Yeni bir açılış ara sahnesi eklendi.
+UI_PatchNotes/PATCH_2_0_NOTE_12 = Denge, Oynanış kolaylıkları:\n\n- Cvstodia'da artık üç yeni Yolculuk noktası bulunabilir.\n- Oyuna yeni bölgeler ve kestirmeler eklendi.\n- Cvstodia'da rahatça dolaşmanın yeni bir yolu eklendi.
+UI_PatchNotes/PATCH_2_0_NOTE_13 = Denge, Dualar:\n\n- Hasar ve Şevk bedelleri ayarlandı.\n- Birçok duanın görselleri iyileştirildi.\n- Duaların davranışı daha tutarlı ve sağlam.
+UI_PatchNotes/PATCH_2_0_NOTE_14 = Denge, Düşmanlar:\n\n- Bazı düşmanlar elden geçirildi; saldırı öncesi belirtileri ve toparlanma süreleri daha iyi.\n- Daha iyi bir dövüş deneyimi için bazı düşmanların davranışı da iyileştirildi. Daha az haksız durum, daha akıcı dövüş.\n- Yetenekler ve saldırılar:\n    - Dövüş adil hissettirsin diye oyuncunun vuruş alanı ve hasar bölgeleri ayarlandı.\n    - Yüklü saldırı ve atılım saldırısı elden geçirildi; artık belirli durumlarda düşmanları sersemletebiliyor.\n    - Uzaktan saldırının hasarı ve bedeli yeniden dengelendi. Hasar artık Mea Culpa seviyesiyle birlikte artıyor.
+UI_PatchNotes/PATCH_2_0_NOTE_2 = Tövbe Sistemi:\n\n- Üç Tövbeden birini seç ve Blasphemous'un işleyişini değiştiren daha da büyük sınamalarla yüzleş.\n- Yalnız Gerçek Eziyet oyununda açıktır.
+UI_PatchNotes/PATCH_2_0_NOTE_3 = The Stir of Dawn:\n\n- Kutsal Hat'ın bağrının derinlerine gömülü, baştan sona yeni bir görev başlatılabilir.\n- Yalnız Gerçek Eziyet oyununda açıktır.
+UI_PatchNotes/PATCH_2_0_NOTE_4 = Harita sistemi:\n\n- Harita baştan tasarlandı ve yeniden yapıldı.\n- Artık haritanın her yerine özel işaretler konabilir.\n- Harita artık piksel hassasiyetinde yakınlaştırılabiliyor.\n- Keşfedilen alanın yüzdesi artık bir köşede görünüyor.
+UI_PatchNotes/PATCH_2_0_NOTE_5 = Yeni eşyalar:\n\n- Yeni Tespih Taneleri eklendi.\n- Yeni bir Kılıç Kalbi eklendi.\n- Yeni bir Dua eklendi.\n- Birkaç yeni görev eşyası eklendi.
+UI_PatchNotes/PATCH_2_0_NOTE_6 = NPC değişiklikleri:\n\n- Albero yakınında, Kirletilmiş Sarnıç'ta yeni bir NPC bulunabilir.\n- NPC Soledad elden geçirildi; tamamen seslendirilmiş yeni diyalogları var.\n- NPC Gémino elden geçirildi ve artık yeni çizimleri var. Görev zinciri biraz değiştirildi.\n- Birçok NPC'ye ve boss'a yeni diyalog satırları eklendi.
+UI_PatchNotes/PATCH_2_0_NOTE_7 = Seslendirme:\n\n- Oyuna tam İspanyolca seslendirme eklendi. Seslendirme dili Seçenekler menüsünden değiştirilebilir.\n- Mevcut diyalogların bir kısmı yeni bir oyuncu kadrosuyla yeniden kaydedildi.
+UI_PatchNotes/PATCH_2_0_NOTE_8 = Çeşitli:\n\n- Albero'daki kilisenin içinde gizemli bir sadaka kutusu bulunabilir.\n- Şu düşmanlar artık infaz edilebiliyor:\n    - Yanık Çehre Rahibesi\n    - Katedra Mızrağı\n    - Guardainfante\n    - Meczup\n    - Phalaris\n    - Gezgin Mezar\n    - Carthos\n- Tövbekâr'ın bazı yetenekleri doğru anda kullanıldığında artık bu düşmanları sersemletiyor.
+UI_PatchNotes/PATCH_2_0_NOTE_9 = Görsel, Bölgeler:\n\n- Şu bölgelerde artık yeni görseller var:\n\n    - Gömülü Kiliseler Çoraklığı\n    - Merhamet Düşleri\n    - Feryat Yükselir\n    - Sessiz Adımlar Avlusu\n    - Üç Çarmıh Köprüsü\n    - Demir Ağaç\n    - Kutsal Yasaklar Duvarı\n\n- Kasabada yeni sakinler var; aralarında doyasıya sevilebilen, çok uslu bir oğlan da var.
+UI_PatchNotes/PATCH_2_0_VERSION = 2.0
+UI_PatchNotes/PATCH_3_0_NOTE_1 = Kutsal Kederler modu:\n\n- Bu yeni boss yarışı modunda Blasphemous'un bütün boss'larıyla dövüş.\n- Her biri 2 zorluk seviyeli, açılabilen 5 farklı yol.\n- En iyi süreni geçmeye ve en yüksek dereceye ulaşmaya çalış.
+UI_PatchNotes/PATCH_3_0_NOTE_2 = Miriam'ın Sınamaları:\n\n- Bloodstained - Ritual of the Night'ın yıldızı Miriam'ın göründüğü, baştan sona yeni bir görev.\n- Kendi dünyasına dönebilmesi için 5 gizli sınamanın sonundaki kristal parçalarını bulup getirmelisin.
+UI_PatchNotes/PATCH_3_0_NOTE_3 = Görsel:\n\n- Ana menüye yeni bir arka plan eklendi.\n- Mevcut bölgelerin çeşitli öğeleri ayarlandı.\n- Oyuna yeni animasyonlu sahneler eklendi.
+UI_PatchNotes/PATCH_3_0_NOTE_4 = Sesler:\n\n- Miriam için İngilizce ve İspanyolca yeni replikler kaydedildi.\n- Diosdado için yeni replikler kaydedildi.
+UI_PatchNotes/PATCH_3_0_NOTE_5 = Yeni eşyalar:\n\n- Yeni bir Dua eklendi.\n- Yeni bir Tespih Tanesi eklendi.
+UI_PatchNotes/PATCH_3_0_NOTE_6 = Diller:\n\n- Korece dil desteği eklendi.\n- Birçok dilde çeşitli düzeltmeler yapıldı.
+UI_PatchNotes/PATCH_3_0_NOTE_7 = Çeşitli:\n\n- Yeni, gizli bir retro bölge eklendi.\n- Yeni bir görüntü işleme modu menüsü eklendi.\n- Blasphemous başarımlarına bakmak için yeni bir menü eklendi.\n- Bir başarım açıldığında seni haberdar eden bir uyarı eklendi.\n- Diosdado'nun görev koşulları ayarlandı.
+UI_PatchNotes/PATCH_3_0_VERSION = 3.0
+UI_PatchNotes/PATCH_4_0_NOTE_1 = Wounds of Eventide:\n\n- Ana oyuna, baştan sona yeni bir görevle açılan yeni bir son eklendi.
+UI_PatchNotes/PATCH_4_0_NOTE_2 = Cvstodia:\n\n- Cvstodia'da artık "Matem ve Yıkım" adlı baştan sona yeni bir bölgeye girilebilir.\n- "Sessiz Keder Kardeşliği" ve "Tuzun Yankıları" büyüdü; keşfedilecek daha çok yer var.\n- Cvstodia'nın derinliklerinde artık iki yeni, zorlu boss pusuda bekliyor.
+UI_PatchNotes/PATCH_4_0_NOTE_3 = Görsel:\n\n- Ana menüye yeni bir arka plan eklendi.\n- Mevcut bölgelerin çeşitli öğeleri ayarlandı.\n- Oyuna yeni animasyonlu sahneler eklendi.
+UI_PatchNotes/PATCH_4_0_NOTE_4 = NPC değişiklikleri:\n\n- Kemiklik'in bekçisi gibi davranan gizemli bir figür ortaya çıktı.\n- Kütüphane'de saklı yeni bir NPC bulunabilir. Girişini Anahtar Ustası bekliyor.\n- Birçok NPC'ye ve boss'a yeni diyalog satırları eklendi.
+UI_PatchNotes/PATCH_4_0_NOTE_5 = Kutsal Kederler:\n\n- Bu moda, bütün yeni boss'ları içeren, açılabilen yeni bir yol eklendi.\n    - Bu son yol, boss'larla dövüşme sıranı rastgele belirliyor!
+UI_PatchNotes/PATCH_4_0_NOTE_6 = Sesler:\n\n- Bütün yeni karakterler için İngilizce ve İspanyolca yeni replikler kaydedildi.\n- Diosdado, Esdras ve Crisanta için yeni replikler kaydedildi.
+UI_PatchNotes/PATCH_4_0_NOTE_7 = Yeni eşyalar:\n\n- Yeni Görev Eşyaları eklendi.\n- Yeni Tespih Taneleri eklendi.\n- Yeni Dualar eklendi.\n- Yeni bir Kılıç Kalbi eklendi.
+UI_PatchNotes/PATCH_4_0_NOTE_8 = Diller:\n\n- Birçok dilde çeşitli düzeltmeler yapıldı.
+UI_PatchNotes/PATCH_4_0_NOTE_9 = Çeşitli:\n\n- Oyuna açılabilen 6 yeni kostüm eklendi.\n- Envanter yuvaları en yüksek eşya sayısına göre ayarlandı.
+UI_PatchNotes/PATCH_4_0_VERSION = 4.0
+UI_PatchNotes/PATCH_NOTES = Yama Notları

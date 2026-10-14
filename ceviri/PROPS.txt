@@ -1,0 +1,21 @@
+# PROPS - etkileşimli nesnelerin mesajları (Günah Çıkaran, vaftiz yağı, kütüphane bulmacası...)
+PROPS/DLG_CONFESSOR_NOTENOUGHPURGE_0 = Yeterince Kefaret Gözyaşı biriktirdiğinde geri gel.
+PROPS/DLG_QT_BAPTISMAL_DRINK_0 = Hacıların Yağı ile meshedilmek ister misin?
+PROPS/DLG_QT_BAPTISMAL_DRINK_ANSWER_0 = Meshet
+PROPS/DLG_QT_BAPTISMAL_DRINK_ANSWER_1 = Hayır
+PROPS/DLG_QT_CONFESSOR_0 = {purgepoints} karşılığında vebalinden arın
+PROPS/MSG_BAPTISMAL_0 = Azami Şevk miktarın arttı.
+PROPS/MSG_CONFESSOR_GUILTREMOVED_0 = Vebalinden arındın.
+PROPS/MSG_CONFESSOR_NOGUILT_0 = Üzerinde hiç vebal yok.
+PROPS/MSG_ELEVATOR_NOTWORKING_0 = Mekanizmanın çalışması için bir anahtar gerekiyor.
+PROPS/MSG_FERVOR_TUTORIAL_0 = Şevk çubuğunu doldurmak için düşmanlara saldır.
+PROPS/MSG_ITEM_TUTORIAL_0 = Bu duayı kullanmak için envanteri aç ve onu kuşan.
+PROPS/MSG_LIBRARYPUZZLE1_0 = Açık bir anatomi kitabı. Sayfada bir uyluk kemiğinin çizimi var.
+PROPS/MSG_LIBRARYPUZZLE2_0 = Açık bir anatomi kitabı. Sayfada bir diz kapağının çizimi var.
+PROPS/MSG_LIBRARYPUZZLE3_0 = Açık bir anatomi kitabı. Sayfada bir kaval kemiğinin çizimi var.
+PROPS/MSG_MEACULPA_TUTORIAL_0 = Yeteneklerinin kilidini açmak için Mea Culpa Sunağıyla etkileşime geç.
+PROPS/DLG_QUOTE_0 = "Doğan güneş değil, günahlarımızdır."
+PROPS/DLG_QUOTE_1 = -Anonim
+PROPS/MSG_SANTOS_CAVE_0 = Taşlaşmış Çan kederle çınlıyor.
+PROPS/DLG_QT_ALTARDEMAKE_0 = {purgepoints} karşılığında bir oyun oyna
+PROPS/MSG_HEART_WARNING_0 = Mea Culpa'nın Tartışılmaz Kalbi elinde titriyor.

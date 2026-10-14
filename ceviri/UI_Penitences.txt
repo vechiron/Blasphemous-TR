@@ -1,0 +1,15 @@
+# UI_Penitences - Tövbe seçimi (Gerçek Eziyet modundaki zorluk yeminleri)
+UI_Penitences/PE01_INFO = -Kılıç kolun zayıflıyor, Mea Culpa saldırıların yarı yarıya etkili.\n-Zihnin daha güçlü, kararlılığın tükenmez bir Şevk kaynağı. Şevk zamanla yenilenir.\n-Acı odağını dağıtır. Aldığın hasar Şevk stoğunu azaltır.
+UI_Penitences/PE02_INFO = -Tenin yırtılmış, seni yalnız iraden ayakta tutuyor. Aldığın her darbe sana bir Can Küresi kaybettirir.\n-Kutsal teçhizatın Mucize'den etkilenmiş. Safra şişeleri zamanla birkaç Küre yeniler, ama hasar almak bu süreci durdurur.\n-Düşmanların amansız. Bir bölgeye her dönüşünde yeniden doğarlar.
+UI_Penitences/PE03_INFO = -Başarısızlık kabul edilemez. Öldüğünde bütün Kefaret Gözyaşların Vebal Parçasına konur. \n-Pişmanlık seni sarar. Savaşta düştüğün anda Vebal Seviyen en yükseğe çıkar.\n-Hiçbir şey acını dindiremez. Safra Şişeleri seni iyileştirmez, onun yerine Şevkini doldurur.
+UI_Penitences/PE01_NAME = Sarsılmaz İmanın Tövbesi
+UI_Penitences/PE02_NAME = Kanayan Kalbin Tövbesi
+UI_Penitences/PE03_NAME = Gerçek Vebalin Tövbesi
+UI_Penitences/NO_PENITENCE = Tövbe Yok
+UI_Penitences/CHOOSE_PENITENCE_CONFIRMATION = Yalnızca tek bir yemin edebilirsin. Bu çileyi üstlenmek istiyor musun?
+UI_Penitences/CHOOSE_NO_PENITENCE_CONFIRMATION = Bu karar geri alınamaz. Bir yemini ettikten sonra bozabilirsin. Yine de hiçbir çile seçmemek mi istiyorsun?
+UI_Penitences/CHOOSE_PENITENCE_ABANDON = Bu karar geri alınamaz. Mevcut yemininden vazgeçmek istiyor musun?
+UI_Penitences/EMBRACE = Üstlen
+UI_Penitences/ABANDON = Vazgeç
+UI_Penitences/ABANDON_PENITENCE_HEADER = ETKİN TÖVBE
+UI_Penitences/CHOOSE_PENITENCE_HEADER = TÖVBENİ SEÇ

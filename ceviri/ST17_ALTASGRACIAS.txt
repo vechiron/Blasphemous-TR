@@ -1,0 +1,11 @@
+ST17_ALTASGRACIAS/DLG_1701_0 = Parmaklarımın arasında eriyen bu altınla nişanlımın servetini reddederim. 
+ST17_ALTASGRACIAS/DLG_1702_0 = Bu yırtık kurdeleyle nişanlıma olan bu bağı reddederim.
+ST17_ALTASGRACIAS/DLG_1703_0 = Bu peçeyle, nişanlıma duyduğum ölü aşkın yasını tutarak yüzümü örterim.
+ST17_ALTASGRACIAS/DLG_1704_0 = Üç sesimi çağıran suskun Tövbekâr.
+ST17_ALTASGRACIAS/DLG_1704_1 = Üç kız kardeş sarılıp bir oldu; böylece Altasgracias denen bir Acılı Mucize doğdu.
+ST17_ALTASGRACIAS/DLG_1704_2 = Bu yumurta, hâlâ lekesiz kalmış bir parçamızı saklar.
+ST17_ALTASGRACIAS/DLG_1705_0 = Al onu yanına, böylece saflığını da bizden uzağa götür; zira bu biçimsiz bedenler için artık çok geç.
+ST17_ALTASGRACIAS/DLG_1706_0 = O vakit öfke dolu seslerimiz sürgün edildi. Şimdi Mucize onları ebedî kıldı.
+ST17_ALTASGRACIAS/DLG_1706_1 = Unutma, bu armağanı günahtan arınsın diye ancak Kutsallık takdis edebilir.
+ST17_ALTASGRACIAS/DLG_1706_2 = Talihli adımlarının seni götüreceği yollarda seslerimiz sana siper olabilir.
+ST17_ALTASGRACIAS/DLG_1707_0 = Artık git. Biçimsizliklerimiz af bulmak için Düş'ün öbür yanına göçecek.

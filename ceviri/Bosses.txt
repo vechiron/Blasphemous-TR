@@ -1,0 +1,19 @@
+# Bosses - boss adları (savaşta ekranın altındaki ad çubuğu)
+Bosses/ANGUISH_NAME = Tres Angustias
+Bosses/BEJEWELED_NAME = Melquíades, Mezarından Çıkarılan Başpiskopos
+Bosses/BLINDBABY_NAME = Expósito, Feragatin Evladı
+Bosses/BURNTFACE_NAME = Yanık Çehreli Meryem Ana
+Bosses/CRISANTA_NAME = Sarmalanmış Istırabın Crisanta'sı
+Bosses/ELDERBROTHER_NAME = Sessiz Kederin Bekçisi
+Bosses/ESDRAS_NAME = Esdras, Meshedilmiş Lejyon'dan
+Bosses/PIETY_NAME = Ten Piedad
+Bosses/PONTIFF_NAME = Escribar Hazretleri
+Bosses/PONTIFF2_NAME = Mucize'nin Son Oğlu
+Bosses/QUIRCE_NAME = Quirce, Alevlerden Dönen
+Bosses/AMANECIDA1_NAME = Altın Kılıçların Amanecida'sı
+Bosses/AMANECIDA2_NAME = Mücevherli Okun Amanecida'sı
+Bosses/AMANECIDA3_NAME = Yontulmuş Çeliğin Amanecida'sı
+Bosses/AMANECIDA4_NAME = Erimiş Dikenin Amanecida'sı
+Bosses/LAUDES_NAME = Laudes, Amanecida'ların İlki
+Bosses/SIERPES_NAME = Sierpes
+Bosses/ISIDORA_NAME = Isidora, Ölülerin Sesi

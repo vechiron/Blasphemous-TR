@@ -1,0 +1,7 @@
+ST00_PENITENT/DLG_0001_0 = Büyük İmtihan ve Mucize'nin Oğulları adına.
+ST00_PENITENT/DLG_0002_0 = Çehremdeki altın erisin ve ruhunun Nedametini silsin.
+ST00_PENITENT/DLG_0003_0 = Çehremdeki altın erisin ve ruhunun Pişmanlığını silsin.
+ST00_PENITENT/DLG_0004_0 = Çehremdeki altın erisin ve ruhunun Vicdan Azabını silsin.
+ST00_PENITENT/DLG_0005_0 = Ey suçlu yürek, şimdi düşten dön.
+ST00_PENITENT/DLG_0010_0 = En kutsal bedenimin önünde alçakgönüllülükle eğildiğinde, çiledeki ruhun Üç Kederinden birinin muhafızı olan altın çehremin huzuruna kabul edildin.
+ST00_PENITENT/DLG_0010_1 = Mucizemiz, seni seçtiği gibi beni de bütün dindarlar arasından bu kutsal denizde yürümek için seçti.

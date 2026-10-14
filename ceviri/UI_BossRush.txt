@@ -1,0 +1,39 @@
+# UI_BossRush - Kutsal Kederler modu (boss yarışı). «%» yerine oyun değer koyuyor (B6 sayısını denetler)
+UI_BossRush/COMPLETED_SUFFIX = TAMAMLANDI
+UI_BossRush/COURSE_A_1 = Kardeşin Birinci Kederi
+UI_BossRush/COURSE_A_2 = Hazretlerinin İkinci Kederi
+UI_BossRush/COURSE_A_3 = Gerçek Eziyetin Üçüncü Kederi
+UI_BossRush/COURSE_B_1 = Şafağın Dördüncü Kederi
+UI_BossRush/COURSE_C_1 = Nihai Erdemin Beşinci Kederi
+UI_BossRush/COURSE_D_1 = Akıl Ermez İradelerin Son Kederi
+UI_BossRush/FAILEDED_SUFFIX = BAŞARISIZ
+UI_BossRush/LABEL_BUTTON_ACCEPT_SLOT = Kutsal Kederler
+UI_BossRush/LABEL_BUTTON_RETRY = Yeniden Dene
+UI_BossRush/LABEL_DIF_HARD = Gerçek Eziyet
+UI_BossRush/LABEL_DIF_NORMAL = Hacı
+UI_BossRush/LABEL_HEADER = KUTSAL KEDERLER
+UI_BossRush/LABEL_HEADER_CURSE = Bir yol seç:
+UI_BossRush/LABEL_HEADER_DIFICULTY = Bir zorluk seç:
+UI_BossRush/LABEL_HEADER_SLOT = Bir kayıt seç:
+UI_BossRush/LABEL_MENU_BOSSRUSH = Kutsal Kederler
+UI_BossRush/LABEL_UNLOCK_COURSE_A_2 = Bu yolu açmak için Kardeşin Birinci Kederini % tamamla
+UI_BossRush/LABEL_UNLOCK_COURSE_A_3 = Bu yolu açmak için Hazretlerinin İkinci Kederini % tamamla
+UI_BossRush/LABEL_UNLOCK_COURSE_B_1 = Bu yolu açmak için İlk Amanecida Laudes'i % yen
+UI_BossRush/LABEL_UNLOCK_COURSE_C_1 = Bu yolu açmak için Gerçek Eziyet zorluğundaki % bütün yolları tamamla
+UI_BossRush/LABEL_UNLOCK_COURSE_D_1 = Önceki bütün yolları tamamla ve % Ebedî Alaylar'daki amacını gerçekleştir.
+UI_BossRush/NEW_RECORD = YENİ REKOR!
+UI_BossRush/RANK_LABEL_BEST_TIME = En iyi süre:
+UI_BossRush/RANK_LABEL_BLOOD = Kullanılan Kan Çilesi:
+UI_BossRush/RANK_LABEL_DIFICULTY = Zorluk:
+UI_BossRush/RANK_LABEL_DOGES = Kaçınma sayısı:
+UI_BossRush/RANK_LABEL_FLASK_USED = Kullanılan Safra Şişesi:
+UI_BossRush/RANK_LABEL_GRADE = DERECE:
+UI_BossRush/RANK_LABEL_HITS = Alınan darbe:
+UI_BossRush/RANK_LABEL_PRAYERS = Okunan dua:
+UI_BossRush/RANK_LABEL_TIME = Geçen süre:
+UI_BossRush/TEXT_BESTTIME = En iyi süre: %
+UI_BossRush/TEXT_BOSSRUSH_UNLOCKED = <color=#396344>Kutsal Kederler</color> modu açıldı!
+UI_BossRush/TEXT_COURSE_END_COMPLETED = YOL % TAMAMLANDI!
+UI_BossRush/TEXT_COURSE_END_FAILED = YOL % BAŞARISIZ!
+UI_BossRush/TEXT_COURSE_UNLOCKED = <color=#396344>%</color> yolu açıldı!
+UI_BossRush/TEXT_HARD_UNLOCKED = <color=#ffffffff>GERÇEK EZİYET</color> zorluğu açıldı!

@@ -1,0 +1,16 @@
+ST04_LVDOVICO/DLG_0401_0 = Hakiki Defin Tarikatının döner dolabına seslendin.
+ST04_LVDOVICO/DLG_0402_0 = Bu zavallı kızcağız...
+ST04_LVDOVICO/DLG_0402_1 = Onun mübarek adına nice gözyaşı döküldü.
+ST04_LVDOVICO/DLG_0402_2 = Bin dua bile Acılı Mucize'nin hakiki kutsallığın bir tecellisi olup olmadığını aydınlatamaz...
+ST04_LVDOVICO/DLG_0402_3 = Gene de haksız yere cezalandırıldığından kalbimizde hiç şüphe yoktur.
+ST04_LVDOVICO/DLG_0403_0 = Tentudía'nın kalıntıları toplandı. Artık onu ikinci, hakiki defniyle toprağa verebiliriz.
+ST04_LVDOVICO/DLG_0403_1 = Bu yakarışla o artık seni gözetecek.
+ST04_LVDOVICO/DLG_0404_0 = Demek Cleofás'la çoktan karşılaştın...
+ST04_LVDOVICO/DLG_0404_1 = Bir zamanlar bu cemaatin bir üyesiydi. Uğursuz bir günde yeminlerini bozdu; ...bir mucizenin gerçekleştiği haberini alınca çekip gitti.
+ST04_LVDOVICO/DLG_0404_2 = Ondan bir daha haber alamadık.
+ST04_LVDOVICO/DLG_0404_3 = Lütfen bunu ona ver. Onun için çok şey ifade edecek.
+ST04_LVDOVICO/DLG_0405_0 = Tarikat seni kutsar, suskun Tövbekâr.
+ST04_LVDOVICO/DLG_0406_0 = Sıradaki kalıntıları bul. Tarikat seni kutsar.
+ST04_LVDOVICO/DLG_0407_0 = Bu yerde, ayrı tutulup unutulanların kalıntılarını toplarız ki hayırsever Kuralımızın buyurduğu gibi onlara kutsal bir defin nasip edelim.
+ST04_LVDOVICO/DLG_0407_1 = Bu zavallı ruhlara yardım et, ey suskun Tövbekâr. Tarikat seni kutsar.
+ST04_LVDOVICO/MSG_0404_0 = Cevap yok.

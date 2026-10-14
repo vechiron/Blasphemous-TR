@@ -1,0 +1,6 @@
+ST22_STATUE/DLG_QT_2201_0 = {purgepoints} karşılığında Boş Safra Kabı doldurulsun mu?
+ST22_STATUE/DLG_QT_2201_ANSWER_0 = Doldur
+ST22_STATUE/DLG_QT_2201_ANSWER_1 = Hayır
+ST22_STATUE/DLG_QT_2202_0 = {purgepoints} karşılığında Can ve Safra Kapları yenilensin mi?
+ST22_STATUE/DLG_QT_2202_ANSWER_0 = Yenile
+ST22_STATUE/DLG_QT_2202_ANSWER_1 = Hayır

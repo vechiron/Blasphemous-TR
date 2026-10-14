@@ -1,0 +1,4 @@
+ST05_DAGGER/DLG_0502_0 = Derin acılarımın bir sonrakini al.
+ST05_DAGGER/DLG_0503_0 = Bu acılarımın sonuncusunu al; hepsinin en derini ve en keskinini.
+ST05_DAGGER/DLG_0503_1 = Şimdi Cezanın Beşiği'ne doğru yola çık, ey suçlu Tövbekâr.
+ST05_DAGGER/MSG_0501_0 = Azami can arttı.

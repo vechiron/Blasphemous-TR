@@ -1,0 +1,57 @@
+Blasphemous TR v1.0.0 - Blasphemous Türkçe Çeviri
+=================================================
+Hazırlayan: Vechiron
+Güncel sürüm: https://github.com/vechiron/Blasphemous-TR
+
+NE İÇERİR?
+- Oyunun bütün metninin Türkçe çevirisi: menüler, diyaloglar, eşya ve dua
+  açıklamaları, öğreticiler, harita. Çeviri İngilizceden yapıldı; anlamı
+  belirsiz yerlerde oyunun asıl dili olan İspanyolcaya bakıldı.
+- Türkçe harf düzeltmesi (TurkishFontFix v1.0.0): ğ, ş, ı, İ harfleri oyunun
+  kendi yazı stilinde görünür.
+- BepInEx 5.4.23.4: eklentileri oyuna yükleyen araç. Oyununuzda yoksa
+  kurulur, varsa olduğu gibi bırakılır.
+
+GEREKSİNİMLER
+- Blasphemous, Windows (test edilen sürüm: 4.0.67, Steam).
+
+KURULUM
+Kolay yol: BlasphemousTR-Kurulum.exe'yi çalıştırıp "Kur"a basın. Oyun
+klasörünü kendisi bulur (başka sürücüdeki Steam kütüphaneleri ve GOG
+dahil); bulamazsa "Gözat" ile Blasphemous.exe'nin bulunduğu klasörü seçin.
+Windows "Bilinmeyen yayımcı" uyarısı gösterirse: Ek bilgi > Yine de
+çalıştır (uygulama imzasız olduğu için normaldir).
+
+Elle kurulum:
+1. Steam'de Blasphemous'a sağ tıklayın > Yönet > Yerel dosyalara göz at.
+2. Bu zip'in içindekilerin hepsini açılan oyun klasörüne kopyalayın
+   (klasörleri birleştirin).
+3. Daha önce başka bir Türkçe yama kurduysanız onu kapatın: iki çeviri aynı
+   anda çalışamaz. BepInEx\plugins\TurkishPatch\TurkishPatch.dll varsa
+   adını TurkishPatch.dll.kapali yapın. (Kurulum aracı bunu kendisi yapar.)
+
+YAZILAR TÜRKÇE GÖRÜNMÜYORSA
+Türkçe, oyunun İngilizce dilinin yerine geçer. Oyun başka bir dildeyse
+Seçenekler > Oyun bölümündeki metin dili satırını "Türkçe" yapın.
+(Oyun ilk açılışta dilini Steam'deki dil ayarından alır.)
+
+İNGİLİZCE KALANLAR
+- Jenerik ve ana menüdeki telif satırı (özgün hâliyle bırakıldı).
+- Resmin içine çizilmiş birkaç yazı.
+
+KALDIRMA
+Kurulum aracında "Kaldır"a basın. Araç yalnızca kendi yaptığını geri alır:
+BepInEx'i kendisi kurduysa kaldırır, başka bir Türkçe yamayı kendisi
+kapattıysa yeniden açar.
+Elle kurduysanız BepInEx\plugins\BlasphemousTR klasörünü silin.
+
+KURULUMUN ÇALIŞTIĞINI GÖRMEK İSTERSENİZ
+Oyunu bir kez açıp kapattıktan sonra BepInEx\LogOutput.log dosyasında
+"[Blasphemous TR]" satırları görünür.
+
+LİSANS
+Türkçe çeviri, Blasphemous TR eklentisi ve TurkishFontFix: © 2026 Vechiron.
+Blasphemous, The Game Kitchen'ın eseridir; bu paket oyunun hiçbir dosyasını
+içermez ve değiştirmez.
+BepInEx (LGPL-2.1) ve beraberindeki HarmonyX, MonoMod, Mono.Cecil (MIT)
+değiştirilmeden dağıtılmıştır: https://github.com/BepInEx/BepInEx

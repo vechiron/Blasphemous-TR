@@ -1,0 +1,15 @@
+ST101_NACIMIENTO/DLG_10101_0 = İki yüz seni selamlıyor, Tövbekâr. Adım Nacimiento.
+ST101_NACIMIENTO/DLG_10101_1 = Göğsüme bak: üzerinde kadim bir çehre gitgide yaşlanıyor. Konuşmayan, düşünmeyen bir yüz; benimkiyse öyle gençleşiyor ki artık bir çocuğa benziyorum.
+ST101_NACIMIENTO/DLG_10101_2 = Öyle korkunç bir hüküm ki bu, amacını anlamıyorum; onu hak etmek için işlemiş olabileceğim günahları ne kadar düşünsem de.
+ST101_NACIMIENTO/DLG_10101_3 = Mucize'nin lütfu cezalandırılanlarda bile vardır. Belki sana yardım ederek bu hükmün ağırlığını hafifletebilirim.
+ST101_NACIMIENTO/DLG_10102_0 = Bana cıvayı getir; o, Acılı Olan'ın keyfince her yerde ayaklarımızın altından fışkırabilir. Onu şişelerindeki safrayla karıştırıp armağanını güçlendireyim.
+ST101_NACIMIENTO/DLG_10103_0 = Kalbin lütuflu olsun.
+ST101_NACIMIENTO/DLG_10104_0 = Bu gümüşle, dökülen kanını geri kazandıracak karışımı kutsarım.
+ST101_NACIMIENTO/DLG_10105_0 = Yorgun hissediyorum... Lütfen beni yalnız bırak.
+ST101_NACIMIENTO/DLG_10106_0 = O kadim olan... bedenimden çıkıyor... Çehresinin dışarı baktığı göğsümdeki yarıktan doğuyor.
+ST101_NACIMIENTO/DLG_10106_1 = Tövbekâr... Ne yapmalıyım? Mucize'nin cezasını sürdürmesine izin mi vermeliyim?
+ST101_NACIMIENTO/DLG_10106_2 = Acele et. Çok geç olmadan bana cıvayı getir.
+ST101_NACIMIENTO/DLG_10107_0 = Bu cıvayla kutsarım karışımı... Dökülen kanını geri kazandıracak olanı.
+ST101_NACIMIENTO/DLG_10108_0 = Acele et... Çok geç olmadan bana cıvayı getir...
+ST101_NACIMIENTO/DLG_10109_0 = Kendi iyiliğin için beni yalnız bırak... Birazdan olacakları görmene gerek yok...
+ST101_NACIMIENTO/MSG_10101_0 = Safra Şişelerinin iyileştirme gücü arttı.

@@ -1,0 +1,13 @@
+ST14_LOTL/DLG_1401_0 = Biçimsizlik açıldı.
+ST14_LOTL/DLG_1401_1 = Sana üç budaklı dil bahşedildi: üç annelerinin acısını yineleyerek burulup kıvrılacak derin kökler salabilirler.
+ST14_LOTL/DLG_1401_2 = Yüce İradeler adına bu emaneti kutsarım. Onu gözet, zira artık saf ve kutsaldır.
+ST14_LOTL/DLG_1403_0 = Ölüm vaktinde, yolculuktan önce, Mucize üstadın elini öptü; etin çürümesini durdurup ona yeni bir lütuf bahşetti.
+ST14_LOTL/DLG_1403_1 = Yüce İradeler adına bu emaneti kutsarım. Onu gözet, zira artık saf ve kutsaldır.
+ST14_LOTL/DLG_1404_0 = İşte ateşlerin, düşüncelerin, düşlenmiş günahların terini emen keten bez.
+ST14_LOTL/DLG_1404_1 = Düş'ün öbür yanına çoktan göçmüş olanlardan bile gizli ve yasak itiraflar koparan bir araç.
+ST14_LOTL/DLG_1404_2 = Yüce İradeler adına bu emaneti kutsarım. Onu gözet, zira artık saf ve kutsaldır.
+ST14_LOTL/DLG_1406_0 = Burası da bir başka düş, Tövbekâr.
+ST14_LOTL/DLG_1406_1 = Beni hürmete layık bir aziz sandılar; dualarına karşılık verdiğim tek şeyse bu çorak toprakta dolaşan ve bedenlerimizden yükselen güherçile oldu. 
+ST14_LOTL/DLG_1406_2 = Mucize'nin sahte puta verdiği ceza, ona sahte bir kutsallık bahşetmektir.
+ST14_LOTL/DLG_1406_3 = Adımı öğrenmeye kalkma, zira o da tuzla kaplı.
+ST14_LOTL/DLG_1410_0 = Bana kutsanabilecek ne varsa getir; böylece bu yazgımı kırabilir, bu sahte düşün öbür yanına geçmeme izin verebilirsin.

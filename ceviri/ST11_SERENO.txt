@@ -1,0 +1,17 @@
+ST11_SERENO/DLG_1101_0 = Ses dinmiyor.
+ST11_SERENO/DLG_1101_1 = Bu unutulmuş duvarlarda sürünüp duruyor; kimse ne kaynağını bilebiliyor ne de karanlık akıbetini.
+ST11_SERENO/DLG_1101_2 = Yüce İradeler aşkına, sustur onu; zira çoktandır sessizliğe hasretim.
+ST11_SERENO/DLG_1106_0 = Yüce İradeler aşkına, şu sesi dindir.
+ST11_SERENO/DLG_11201_0 = Bendeniz, adı Diosdado, zanaatı gece bekçiliği, emrine amadeyim.
+ST11_SERENO/DLG_11201_1 = Böylesine çekilmez bir sesi dindirdiğin için sana minnettarım.
+ST11_SERENO/DLG_11201_2 = Yadsınmış Sözler Kütüphanesi'ndeyiz; zira bu tozlu ciltlerin içindeki sayfalar yasaktır ve ebediyen yasak kalacaktır.
+ST11_SERENO/DLG_11201_3 = Burada bana eşlik eden yalnızca bu ağır anahtarlar ve ölümden sonra bile bilgiye açlık duyan avare ruhlardır.
+ST11_SERENO/DLG_11202_0 = Adımlarına dikkat et, zira bu salonlar aldatıcı olabilir.
+ST11_SERENO/DLG_11203_0 = Ah, taşıdığın şu anahtar...
+ST11_SERENO/DLG_11203_1 = Çağlar önce kadim yanılsamalarla örtülmüş bir kapıyı açar.
+ST11_SERENO/DLG_11204_0 = Orada uyuyandan sakın.
+ST11_SERENO/DLG_11205_0 = Kapı seni bekliyor.
+ST11_SERENO/DLG_11205_1 = Ötesinde uyuyana dikkat et.
+ST11_SERENO/DLG_11206_0 = Çehre...
+ST11_SERENO/DLG_11206_1 = Zaman zaman, en derin sessizliklerde, altının kayanın içinde, ta köklerin içinde eridiği duyulur.
+ST11_SERENO/DLG_11207_0 = Adımlarına dikkat et, zira bu odalar aldatıcı olabilir.

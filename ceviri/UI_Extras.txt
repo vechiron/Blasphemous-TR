@@ -1,0 +1,42 @@
+# UI_Extras - Ekstralar menüsü: kostümler, arka planlar
+# DLC adları (The Stir of Dawn, Strife and Ruin, Wounds of Eventide) ürün adı: çevrilmez (terimce)
+UI_Extras/LABEL_MENU_EXTRAS_DEFAULTSKIN = Varsayılan Görünüm
+UI_Extras/LABEL_MENU_EXTRAS_SELECTSKIN = Tövbekâr'ın görünümünü seç
+UI_Extras/LABEL_MENU_EXTRAS_SKIN1 = Mucize'nin Oğlu
+UI_Extras/LABEL_MENU_EXTRAS_SKIN2 = Gerçek İrtidat
+UI_Extras/LABEL_MENU_EXTRAS_SKIN3 = Kemiklik Bekçisi
+UI_Extras/LABEL_MENU_EXTRAS_SKIN4 = Altın Yük
+UI_Extras/LABEL_MENU_EXTRAS_SKIN5 = Günah Alaşımı
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_BOSSRUSH = Ebedî Huzur
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_DEMAKE = Arkaik Yüceliş
+UI_Extras/UNLOCK_PENITENT_ENDING_A = Kostüm açıldı: <color=#67BCC6>Mucize'nin Oğlu</color>
+UI_Extras/UNLOCK_PENITENT_ENDING_B = Kostüm açıldı: <color=#DB5237>Gerçek İrtidat</color>
+UI_Extras/UNLOCK_PENITENT_OSSUARY = Kostüm açıldı: <color=#DED299>Kemiklik Bekçisi</color>
+UI_Extras/SHOW_PATCH_NOTES = Yama Notlarını Göster
+UI_Extras/CHOOSE_BACKGROUND = Arka Plan Seçimi
+UI_Extras/BACKGROUND_1_LABEL = The Stir of Dawn
+UI_Extras/BACKGROUND_0_LABEL = Blasphemous
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_PE01 = Sarsılmaz İman
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_PE02 = Kanayan Kalp
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_PE03 = Gerçek Vebal
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_ALMS = Unutuşa Sadaka
+UI_Extras/UNLOCK_PENITENT_ALMS = Kostüm açıldı: <color=#c39c4c>Unutuşa Sadaka</color>
+UI_Extras/UNLOCK_PENITENT_PE01 = Kostüm açıldı: <color=#418096>Sarsılmaz İman</color>
+UI_Extras/UNLOCK_PENITENT_PE02 = Kostüm açıldı: <color=#a51b43>Kanayan Kalp</color>
+UI_Extras/UNLOCK_PENITENT_PE03 = Kostüm açıldı: <color=#4e2869>Gerçek Vebal</color>
+UI_Extras/UNLOCK_PENITENT_BOSSRUSH = Kostüm açıldı: <color=#396344>Ebedî Huzur</color>
+UI_Extras/UNLOCK_PENITENT_DEMAKE = Kostüm açıldı: <color=#4982d9>Arkaik Yüceliş</color>
+UI_Extras/BACKGROUND_2_LABEL = Strife and Ruin
+UI_Extras/BACKGROUND_3_LABEL = Wounds of Eventide
+UI_Extras/UNLOCK_PENITENT_ENDING_C = Kostüm açıldı: <color=#bb1a1b>Exemplaris Excomvnicationis</color>
+UI_Extras/UNLOCK_PENITENT_SIERPES = Kostüm açıldı: <color=#c47528>Yankı ve Gölge</color>
+UI_Extras/UNLOCK_PENITENT_ISIDORA = Kostüm açıldı: <color=#345fa3>Ölülerin Şarkıcısı</color>
+UI_Extras/UNLOCK_PENITENT_KONAMI = Kostüm açıldı: <color=#f26d50>Kadim Tarih</color>
+UI_Extras/UNLOCK_PENITENT_GAMEBOY = Kostüm açıldı: <color=#679655>Macera</color>
+UI_Extras/UNLOCK_PENITENT_BOSSRUSH_S = Kostüm açıldı: <color=#29adff>Amansız Doğruluk</color>
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_ENDING_C = Exemplaris Excomvnicationis
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_SIERPES = Yankı ve Gölge
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_ISIDORA = Ölülerin Şarkıcısı
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_KONAMI = Kadim Tarih
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_GAMEBOY = Macera
+UI_Extras/LABEL_MENU_EXTRAS_SKIN_BOSSRUSH_S = Amansız Doğruluk
